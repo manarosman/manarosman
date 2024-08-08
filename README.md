@@ -4,9 +4,10 @@
 - I love coding specifically because I love the puzzle-solving aspect of it. I'm the sort of person who in order to relax on the weekend, solves coding challenges, builds games, and enters hackathons.
 - Skills:-
 - Back-end language:-
-- sql  -  php
+- sql  -  php -python
 - Front-end language:-
-- html  - css  -  python -   javascript   -   c++  -   c#   -  c  -   photoshop adobe
+- html  - css   -   javascript   -  photoshop adobe
+- flutter
 - GAME engines:-
 - 3d max -   open gl
 - 📫 How to reach me ...
